@@ -33,13 +33,6 @@ When I'm not coding, you might find me exploring music, tech news or gaming 🎮
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricio-cadete&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-cadete&layout=compact&theme=tokyonight)
-
-
----
-
 ### 🌐 Connect with me
 📫 https://www.linkedin.com/in/fabricio-antonio-534913158/
 
