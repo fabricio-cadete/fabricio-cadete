@@ -4,7 +4,7 @@ Hello everyone! My name is Fabricio, and I'm thrilled to share my GitHub reposit
 
 ## About Me 👨
 
-I'm 24 years old and a passionate programmer and software developer. My journey in the world of technology began with a curiosity to explore how things work and how I can create real-world solutions through programming. Over the years, I have dedicated myself to honing my skills and expanding my knowledge in various areas of software development.
+I'm 25 years old and a passionate programmer and software developer. My journey in the world of technology began with a curiosity to explore how things work and how I can create real-world solutions through programming. Over the years, I have dedicated myself to honing my skills and expanding my knowledge in various areas of software development.
 
 ## Favorite Technologies 👨‍💻
 
@@ -36,9 +36,9 @@ Thank you!
 
 ## GitHub Stats
 
-<a href="https://github.com/faslash">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=faslash&show_icons=true&theme=dracula&count_private=true">
+<a href="https://github.com/fabricio-cadete">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=fabricio-cadete&show_icons=true&theme=dracula&count_private=true">
 </a>
-<a href="https://github.com/faslash">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faslash&layout=compact&theme=dracula&count_private=true">
+<a href="https://github.com/fabricio-cadete">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-cadete&layout=compact&theme=dracula&count_private=true">
 </a>
